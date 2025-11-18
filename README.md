@@ -19,7 +19,7 @@ Demonstrated real-time monitoring and alerting for cloud infrastructure
 
 | Description | Screenshot |
 |------------|------------|
-| VPC Created for EC2 Monitoring | ![VPC Created](Step1_VPC_Creation_Preview.png) |
+| VPC Created for EC2 Monitoring | ![VPC Created](Step1_VPC_Creation_Preview.PNG) |
 | IAM Role for CloudWatch Agent | ![IAM Role](Step2_IAM_Role_EC2CloudWatchRole.png) |
 | EC2 Instance Details | ![Instance Details](Step3_EC2_Instance_Details.png) |
 | Apache Web Server Installed | ![Apache Installed](Step4_Apache_Installed.png) |
