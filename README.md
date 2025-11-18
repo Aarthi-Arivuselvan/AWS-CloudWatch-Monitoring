@@ -20,18 +20,18 @@ Demonstrated real-time monitoring and alerting for cloud infrastructure
 | Description | Screenshot |
 |------------|------------|
 | VPC Created for EC2 Monitoring | ![VPC Created](Step1_VPC_Creation_Preview.PNG) |
-| IAM Role for CloudWatch Agent | ![IAM Role](Step2_IAM_Role_EC2CloudWatchRole.png) |
-| EC2 Instance Details | ![Instance Details](Step3_EC2_Instance_Details.png) |
-| Apache Web Server Installed | ![Apache Installed](Step4_Apache_Installed.png) |
-| SSH Connection to EC2 | ![SSH Connected](Step4_SSH_Connected.png) |
-| Web Page Working on EC2 | ![Web Page Working](Step4_WebPage_Working.png) |
-| CloudWatch Metrics Visible | ![Metrics Visible](Step5_CloudWatch_Metrics_Visible.png) |
-| CloudWatch Agent Installed | ![Agent Installed](Step5_CloudWatchAgent_Installed.png) |
-| CloudWatch Agent Started | ![Agent Started](Step5_CloudWatchAgent_Started.png) |
-| CloudWatch Agent Status Check | ![Agent Status](Step5_CloudWatchAgent_Status.png) |
-| CloudWatch Alarm Created | ![Alarm Created](Step6_Alarm_Created.png) |
-| SNS Subscription Confirmed | ![SNS Subscription](Step6_SNS_Subscription_Confirmed.png) |
-| SNS Topic Created | ![SNS Topic](Step6_SNS_Topic_Created.png) |
+| IAM Role for CloudWatch Agent | ![IAM Role](Step2_IAM_Role_EC2CloudWatchRole.PNG) |
+| EC2 Instance Details | ![Instance Details](Step3_EC2_Instance_Details.PNG) |
+| Apache Web Server Installed | ![Apache Installed](Step4_Apache_Installed.PNG) |
+| SSH Connection to EC2 | ![SSH Connected](Step4_SSH_Connected.PNG) |
+| Web Page Working on EC2 | ![Web Page Working](Step4_WebPage_Working.PNG) |
+| CloudWatch Metrics Visible | ![Metrics Visible](Step5_CloudWatch_Metrics_Visible.PNG) |
+| CloudWatch Agent Installed | ![Agent Installed](Step5_CloudWatchAgent_Installed.PNG) |
+| CloudWatch Agent Started | ![Agent Started](Step5_CloudWatchAgent_Started.PNG) |
+| CloudWatch Agent Status Check | ![Agent Status](Step5_CloudWatchAgent_Status.PNG) |
+| CloudWatch Alarm Created | ![Alarm Created](Step6_Alarm_Created.PNG) |
+| SNS Subscription Confirmed | ![SNS Subscription](Step6_SNS_Subscription_Confirmed.PNG) |
+| SNS Topic Created | ![SNS Topic](Step6_SNS_Topic_Created.PNG) |
 
 ## Tools & AWS Services Used
 
